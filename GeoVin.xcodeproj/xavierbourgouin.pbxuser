@@ -1,0 +1,381 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GeoVinAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {739, 429}}";
+			sepNavSelRange = "{537, 8}";
+			sepNavVisRange = "{137, 637}";
+			sepNavWindowFrame = "{{104, 43}, {1230, 698}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GeoVinAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 2405}}";
+			sepNavSelRange = "{4505, 0}";
+			sepNavVisRange = "{41, 1251}";
+			sepNavWindowFrame = "{{50, 43}, {1230, 698}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GeoVin */ = {
+		activeExec = 0;
+		executables = (
+			2EEF0D70135CC84F001CFB65 /* GeoVin */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GeoVinViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 403}}";
+			sepNavSelRange = "{555, 0}";
+			sepNavVisRange = "{367, 445}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GeoVinViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {794, 2600}}";
+			sepNavSelRange = "{4826, 0}";
+			sepNavVisRange = "{4347, 540}";
+			sepNavWindowFrame = "{{36, 59}, {1212, 697}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2EEF0D70135CC84F001CFB65 /* GeoVin */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GeoVin */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GeoVin */,
+		);
+		breakpoints = (
+			2EEF0DD1135CD96F001CFB65 /* GeoVinViewController.m:84 */,
+			2EEF0DE4135CDA3A001CFB65 /* GeoVinViewController.m:84 */,
+			2EF2F45D1365102C00368806 /* GeoVinViewController.m:128 */,
+			2EF2F4731365113A00368806 /* GeoVinAppDelegate.m:34 */,
+			2EF2F48A1365130D00368806 /* GeoVinViewController.m:129 */,
+			2EF2F4A01365159E00368806 /* GeoVinAppDelegate.m:126 */,
+			2EF2F4C4136516BF00368806 /* GeoVinViewController.m:172 */,
+			2EF2F4D21365174300368806 /* GeoVinAppDelegate.m:145 */,
+		);
+		codeSenseManager = 2EEF0D81135CC85F001CFB65 /* Code sense */;
+		executables = (
+			2EEF0D70135CC84F001CFB65 /* GeoVin */,
+		);
+		expressions = (
+			imagePath,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					561,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325381247;
+			PBXWorkspaceStateSaveDate = 325381247;
+		};
+		perUserProjectItems = {
+			2EF2F3971364F6DC00368806 /* PBXTextBookmark */ = 2EF2F3971364F6DC00368806 /* PBXTextBookmark */;
+			2EF2F5291365200A00368806 /* PBXTextBookmark */ = 2EF2F5291365200A00368806 /* PBXTextBookmark */;
+			2EF2F54C136520D700368806 /* PBXTextBookmark */ = 2EF2F54C136520D700368806 /* PBXTextBookmark */;
+			2EF2F54D136520D700368806 /* PBXTextBookmark */ = 2EF2F54D136520D700368806 /* PBXTextBookmark */;
+			2EF2F54E136520D700368806 /* PBXTextBookmark */ = 2EF2F54E136520D700368806 /* PBXTextBookmark */;
+			2EF2F5561365224F00368806 /* PBXTextBookmark */ = 2EF2F5561365224F00368806 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2EEF0D80135CC85F001CFB65 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2EEF0D70135CC84F001CFB65 /* GeoVin */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GeoVin;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	2EEF0D80135CC85F001CFB65 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2EEF0D81135CC85F001CFB65 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2EEF0DD1135CD96F001CFB65 /* GeoVinViewController.m:84 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GeoVinViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 84;
+		location = GeoVin;
+		modificationTime = 325393659.300967;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2EEF0DE4135CDA3A001CFB65 /* GeoVinViewController.m:84 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GeoVinViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 84;
+		location = GeoVin;
+		modificationTime = 325393659.304311;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2EF2F3141364EB5C00368806 /* carteregionvin.svg */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3386, 11375}}";
+			sepNavSelRange = "{75384, 9}";
+			sepNavVisRange = "{74674, 866}";
+			sepNavWindowFrame = "{{36, 59}, {1212, 697}}";
+		};
+	};
+	2EF2F3971364F6DC00368806 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2EF2F3141364EB5C00368806 /* carteregionvin.svg */;
+		name = "carteregionvin.svg: 220";
+		rLen = 9;
+		rLoc = 75384;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 74534;
+	};
+	2EF2F45D1365102C00368806 /* GeoVinViewController.m:128 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GeoVinViewController.m */;
+		functionName = "-startButtonPressed:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 128;
+		location = GeoVin;
+		modificationTime = 325393659.308063;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2EF2F4731365113A00368806 /* GeoVinAppDelegate.m:34 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* GeoVinAppDelegate.m */;
+		functionName = "-application:didFinishLaunchingWithOptions:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 34;
+		location = GeoVin;
+		modificationTime = 325393659.31151;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2EF2F48A1365130D00368806 /* GeoVinViewController.m:129 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GeoVinViewController.m */;
+		functionName = "-startButtonPressed:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 129;
+		location = GeoVin;
+		modificationTime = 325393659.317753;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2EF2F4A01365159E00368806 /* GeoVinAppDelegate.m:126 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* GeoVinAppDelegate.m */;
+		functionName = "-askNewRegion";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 126;
+		location = GeoVin;
+		modificationTime = 325393659.322894;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2EF2F4C4136516BF00368806 /* GeoVinViewController.m:172 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* GeoVinViewController.m */;
+		functionName = "-nextButtonPressed:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 172;
+		location = GeoVin;
+		modificationTime = 325393679.947923;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	2EF2F4D21365174300368806 /* GeoVinAppDelegate.m:145 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* GeoVinAppDelegate.m */;
+		functionName = "-checkAnswerCorrect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 145;
+		location = GeoVin;
+		modificationTime = 325393659.333157;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	2EF2F5291365200A00368806 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GeoVinViewController.h */;
+		name = "GeoVinViewController.h: 9";
+		rLen = 0;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 0;
+	};
+	2EF2F54C136520D700368806 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GeoVinAppDelegate.m */;
+		name = "GeoVinAppDelegate.m: 110";
+		rLen = 0;
+		rLoc = 3552;
+		rType = 0;
+		vrLen = 503;
+		vrLoc = 3200;
+	};
+	2EF2F54D136520D700368806 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GeoVinViewController.m */;
+		name = "GeoVinViewController.m: 198";
+		rLen = 0;
+		rLoc = 5350;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 4876;
+	};
+	2EF2F54E136520D700368806 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GeoVinAppDelegate.h */;
+		rLen = 8;
+		rLoc = 537;
+		rType = 0;
+	};
+	2EF2F5561365224F00368806 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GeoVinAppDelegate.h */;
+		name = "GeoVinAppDelegate.h: 25";
+		rLen = 8;
+		rLoc = 537;
+		rType = 0;
+		vrLen = 637;
+		vrLoc = 137;
+	};
+}

@@ -1,0 +1,312 @@
+TGeoVin
+v7
+r0
+t325394646.947505
+cCheck dependencies
+cProcessInfoPlistFile /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/Info.plist GeoVin-Info.plist
+cCompileXIB /Users/xavierbourgouin/Documents/GeoVin/MainWindow.xib
+cCompileXIB /Users/xavierbourgouin/Documents/GeoVin/GeoVinViewController.xib
+cCpResource build/Debug-iphonesimulator/GeoVin.app/carteregionvin.svg carteregionvin.svg
+cProcessPCH /var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoVin_Prefix-bbqtzdomqccxazgxesciwdkmntnl/GeoVin_Prefix.pch.gch GeoVin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/main.o /Users/xavierbourgouin/Documents/GeoVin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinAppDelegate.o /Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinViewController.o /Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin normal i386
+cGenerateDSYMFile /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app.dSYM /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin
+cTouch /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinAppDelegate.h
+c000000004DB4E7CE0000000000000306
+t1303701454
+s774
+i<UIKit/UIKit.h>
+
+N/Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinAppDelegate.m
+c000000004DB4EABF00000000000013C5
+t1303702207
+s5061
+i"GeoVinAppDelegate.h"
+i"GeoVinViewController.h"
+
+N/Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinViewController.h
+c000000004DB4E94F000000000000032C
+t1303701839
+s812
+i<UIKit/UIKit.h>
+
+N/Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinViewController.m
+c000000004DB4E9D700000000000014EB
+t1303701975
+s5355
+i"GeoVinViewController.h"
+i"GeoVinAppDelegate.h"
+
+N/Users/xavierbourgouin/Documents/GeoVin/GeoVinViewController.xib
+c000000004DB4BF6B0000000000007C46
+t1303691115
+s31814
+
+N/Users/xavierbourgouin/Documents/GeoVin/GeoVin_Prefix.pch
+c000000004DAC90CF00000000000000B5
+t1303154895
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/xavierbourgouin/Documents/GeoVin/MainWindow.xib
+c000000004DAC90CF0000000000004E1D
+t1303154895
+s19997
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app
+t1303701846
+s340
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app.dSYM
+t1303701846
+s102
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin
+t1303701846
+s30108
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVinViewController.nib
+t1303691345
+s2815
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/Info.plist
+t1303158038
+s587
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/MainWindow.nib
+t1303158039
+s1121
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/PkgInfo
+t1303158038
+s8
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/carte_region_vin.svg
+t1303686274
+s111932
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/carteregionvin.svg
+t1303688600
+s113932
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/usa2.gif
+t1303159087
+s14361
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVin.LinkFileList
+c000000004DAC9D160000000000000188
+t1303158038
+s392
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinAppDelegate.o
+t1303701846
+s60396
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinViewController.o
+t1303701846
+s61084
+
+N/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/main.o
+t1303158042
+s6304
+
+N/Users/xavierbourgouin/Documents/GeoVin/carte_region_vin.svg
+c000000004DB4AC80000000000001B53C
+t1303686272
+s111932
+
+N/Users/xavierbourgouin/Documents/GeoVin/carteregionvin.svg
+c000000004DB4B543000000000001BD0C
+t1303688515
+s113932
+
+N/Users/xavierbourgouin/Documents/GeoVin/main.m
+c000000004DAC90CF0000000000000162
+t1303154895
+s354
+i<UIKit/UIKit.h>
+
+N/Users/xavierbourgouin/Documents/GeoVin/usa2.gif
+c000000004DACA0CE0000000000003819
+t1303158990
+s14361
+
+N/var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoVin_Prefix-bbqtzdomqccxazgxesciwdkmntnl/GeoVin_Prefix.pch.gch
+t1303158041
+s15453392
+
+NGeoVin-Info.plist
+c000000004DAC90CF000000000000038D
+t1303154895
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325394646#325394646#0(0"0(0#1#0"8617536096#0"0#
+
+CCompileC build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinAppDelegate.o /Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325394646.379079
+e325394646.788980
+r1
+xCompileC
+xbuild/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinAppDelegate.o
+x/Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinAppDelegate.m325394646#325394646#0(0"0(0#0#67"/Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinAppDelegate.m8636112000#2001"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-generated-files.hmap -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-own-target-headers.hmap -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-all-target-headers.hmap -iquote /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-project-headers.hmap -F/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator -I/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/include -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/DerivedSources/i386 -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/DerivedSources -include /var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoVin_Prefix-bbqtzdomqccxazgxesciwdkmntnl/GeoVin_Prefix.pch -c /Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinAppDelegate.m -o /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinAppDelegate.o0#
+
+CCompileC build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinViewController.o /Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325394646.383556
+e325394646.750669
+r1
+xCompileC
+xbuild/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinViewController.o
+x/Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinViewController.m325394646#325394646#0(0"0(0#0#70"/Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinViewController.m8635593728#2007"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-generated-files.hmap -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-own-target-headers.hmap -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-all-target-headers.hmap -iquote /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-project-headers.hmap -F/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator -I/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/include -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/DerivedSources/i386 -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/DerivedSources -include /var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoVin_Prefix-bbqtzdomqccxazgxesciwdkmntnl/GeoVin_Prefix.pch -c /Users/xavierbourgouin/Documents/GeoVin/Classes/GeoVinViewController.m -o /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVinViewController.o0#
+
+CCompileC build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/main.o /Users/xavierbourgouin/Documents/GeoVin/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s324850841.951504
+e324850842.174537
+r1
+xCompileC
+xbuild/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/main.o
+x/Users/xavierbourgouin/Documents/GeoVin/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/xavierbourgouin/Documents/GeoVin/main.m324850841#324850842#0(0"0(0#0#46"/Users/xavierbourgouin/Documents/GeoVin/main.m8613534464#1967"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-generated-files.hmap -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-own-target-headers.hmap -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-all-target-headers.hmap -iquote /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-project-headers.hmap -F/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator -I/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/include -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/DerivedSources/i386 -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/DerivedSources -include /var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoVin_Prefix-bbqtzdomqccxazgxesciwdkmntnl/GeoVin_Prefix.pch -c /Users/xavierbourgouin/Documents/GeoVin/main.m -o /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/xavierbourgouin/Documents/GeoVin/GeoVinViewController.xib
+s325384144.589579
+e325384145.843725
+r1
+xCompileXIB
+x/Users/xavierbourgouin/Documents/GeoVin/GeoVinViewController.xib
+lSLF07#2@35"CompileXIB GeoVinViewController.xib325384144#325384145#0(0"0(0#0#64"/Users/xavierbourgouin/Documents/GeoVin/GeoVinViewController.xib8621452000#654"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVinViewController.nib /Users/xavierbourgouin/Documents/GeoVin/GeoVinViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/xavierbourgouin/Documents/GeoVin/MainWindow.xib
+s324850838.467949
+e324850839.803776
+r1
+xCompileXIB
+x/Users/xavierbourgouin/Documents/GeoVin/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib324850838#324850839#0(0"0(0#0#54"/Users/xavierbourgouin/Documents/GeoVin/MainWindow.xib8617987008#634"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/MainWindow.nib /Users/xavierbourgouin/Documents/GeoVin/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/GeoVin.app/carte_region_vin.svg carte_region_vin.svg
+s325379074.544360
+e325379074.572628
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoVin.app/carte_region_vin.svg
+xcarte_region_vin.svg
+lSLF07#2@25"Copy carte_region_vin.svg325379074#325379074#0(0"0(0#0#60"/Users/xavierbourgouin/Documents/GeoVin/carte_region_vin.svg8616127776#542"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/xavierbourgouin/Documents/GeoVin/carte_region_vin.svg /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoVin.app/carteregionvin.svg carteregionvin.svg
+s325381400.909708
+e325381400.953322
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoVin.app/carteregionvin.svg
+xcarteregionvin.svg
+lSLF07#2@23"Copy carteregionvin.svg325381400#325381400#0(0"0(0#0#58"/Users/xavierbourgouin/Documents/GeoVin/carteregionvin.svg8617187616#540"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/xavierbourgouin/Documents/GeoVin/carteregionvin.svg /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app0#
+
+CCpResource build/Debug-iphonesimulator/GeoVin.app/usa2.gif usa2.gif
+s324851887.058669
+e324851887.402698
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/GeoVin.app/usa2.gif
+xusa2.gif
+lSLF07#2@13"Copy usa2.gif324851887#324851887#0(0"0(0#0#48"/Users/xavierbourgouin/Documents/GeoVin/usa2.gif8623206272#530"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/xavierbourgouin/Documents/GeoVin/usa2.gif /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app0#
+
+CGenerateDSYMFile /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app.dSYM /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin
+s325394646.853935
+e325394646.938240
+r1
+xGenerateDSYMFile
+x/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app.dSYM
+x/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/GeoVin.app.dSYM build/Debug-iphonesimulator/GeoVin.app/GeoVin325394646#325394646#0(0"0(0#0#85"/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin8636985856#445"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin -o /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app.dSYM0#
+
+CLd /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin normal i386
+s325394646.789152
+e325394646.853740
+r1
+xLd
+x/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin
+xnormal
+xi386
+lSLF07#2@90"Link /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin325394646#325394646#0(0"0(0#0#0"8637379104#962"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator -F/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator -filelist /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/Objects-normal/i386/GeoVin.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/GeoVin0#
+
+CProcessInfoPlistFile /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/Info.plist GeoVin-Info.plist
+s324850838.386239
+e324850838.467745
+r1
+xProcessInfoPlistFile
+x/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/Info.plist
+xGeoVin-Info.plist
+lSLF07#2@25"Process GeoVin-Info.plist324850838#324850838#0(0"0(0#0#57"/Users/xavierbourgouin/Documents/GeoVin/GeoVin-Info.plist29273878621126700#541"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility GeoVin-Info.plist -genpkginfo /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app/Info.plist0#
+
+CProcessPCH /var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoVin_Prefix-bbqtzdomqccxazgxesciwdkmntnl/GeoVin_Prefix.pch.gch GeoVin_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s324850840.003711
+e324850841.951141
+r1
+xProcessPCH
+x/var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoVin_Prefix-bbqtzdomqccxazgxesciwdkmntnl/GeoVin_Prefix.pch.gch
+xGeoVin_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile GeoVin_Prefix.pch324850840#324850841#0(0"0(0#0#57"/Users/xavierbourgouin/Documents/GeoVin/GeoVin_Prefix.pch7309993515980249088#1859"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-generated-files.hmap -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-own-target-headers.hmap -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-all-target-headers.hmap -iquote /Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/GeoVin-project-headers.hmap -F/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator -I/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/include -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/DerivedSources/i386 -I/Users/xavierbourgouin/Documents/GeoVin/build/GeoVin.build/Debug-iphonesimulator/GeoVin.build/DerivedSources -c /Users/xavierbourgouin/Documents/GeoVin/GeoVin_Prefix.pch -o /var/folders/oU/oUV3FUXoFdOXnFFIdAEyxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeoVin_Prefix-bbqtzdomqccxazgxesciwdkmntnl/GeoVin_Prefix.pch.gch0#
+
+CTouch /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app
+s325394646.938406
+e325394646.947422
+r1
+xTouch
+x/Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app
+lSLF07#2@84"Touch /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app325394646#325394646#0(0"0(0#0#0"8652199456#341"    cd /Users/xavierbourgouin/Documents/GeoVin    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/xavierbourgouin/Documents/GeoVin/build/Debug-iphonesimulator/GeoVin.app0#
+
